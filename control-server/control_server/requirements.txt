@@ -1,0 +1,4 @@
+bottle>=0.12.25
+gevent>=22.10.0
+gevent-websocket>=0.10.1
+pyserial>=3.5

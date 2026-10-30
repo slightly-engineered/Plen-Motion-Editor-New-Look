@@ -1,0 +1,23 @@
+# Python: private environment made by setup.ps1, caches and server logs
+.venv/
+__pycache__/
+*.pyc
+control-server/control_server/logs/
+*.log
+
+# Visual Studio leftovers from the original Utils GUI project
+.vs/
+bin/
+obj/
+
+# Local copies and clutter
+*.bak
+*.lnk
+*.zip
+desktop.ini
+Thumbs.db
+
+# CAD files stay on the workstation (Anim8 only needs assets/glb/robot_v2.glb)
+*.stl
+*.blend
+*.blend1

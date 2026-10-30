@@ -1,0 +1,25 @@
+{
+	"slot": 4,
+	"name": "Plen                ",
+	"@frame_length": 16,
+	"codes": [
+	],
+	"frames": [
+		{
+			"@index": 0,
+			"transition_time_ms": 1050,
+			"outputs": [
+				{
+					"device": 0,
+					"value": 0
+				},
+				{
+					"device": 1,
+					"value": 0
+				},
+				{
+					"device": 2,
+					"value": -16
+				},
+				{
+					"device": 3,

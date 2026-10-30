@@ -1,0 +1,1410 @@
+{
+	"slot": 3,
+	"name": "A-hem",
+	"codes": [
+		{
+			"method": "loop",
+			"arguments": [
+				12,
+				17,
+				200
+			]
+		}
+	],
+	"frames": [
+		{
+			"transition_time_ms": 356,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 1
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_roll",
+					"value": 0
+				}
+			]
+		},
+		{
+			"transition_time_ms": 1122,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "neck_yaw",
+					"value": 1
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 0				
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_roll",
+					"value": 0
+				}
+			]
+		},
+		{
+			"transition_time_ms": 180,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "neck_yaw",
+					"value": -360
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_roll",
+					"value": 0
+				}
+			]
+		},
+		{
+			"transition_time_ms": 180,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 434
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_roll",
+					"value": 0
+				}
+			]
+		},
+		{
+			"transition_time_ms": 180,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 3
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_roll",
+					"value": 0
+				}
+			]
+		},
+		{
+			"transition_time_ms": 606,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": 0
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 3
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": 0
+				},
+				{
+					"device": "left_foot_roll",
+					"value": 0
+				}
+			]
+		},
+		{
+			"transition_time_ms": 780,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 90
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 105
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": -48
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 37
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -453
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 331
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 100
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 46
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": -2
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -196
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": -424
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 118
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": -19
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 395
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -402
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": -184
+				},
+				{
+					"device": "left_foot_roll",
+					"value": -39
+				}
+			]
+		},
+		{
+			"transition_time_ms": 500,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": -11
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 338
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 162
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 97
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -534
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 210
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": -126
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 76
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": -13
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -521
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": -420
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 202
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": -132
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 462
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -436
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": -79
+				},
+				{
+					"device": "left_foot_roll",
+					"value": -150
+				}
+			]
+		},
+		{
+			"transition_time_ms": 872,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 13
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 521
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 492
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": -202
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 132
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -366
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 376
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 218
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 133
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 11
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -338
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 533
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": -162
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": -97
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 360
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -207
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": 3
+				},
+				{
+					"device": "left_foot_roll",
+					"value": -71
+				}
+			]
+		},
+		{
+			"transition_time_ms": 702,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 13
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 521
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 492
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": -202
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 132
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -490
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 430
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 139
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 120
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 11
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -338
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": -273
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": -162
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": -97
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 390
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -279
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": -51
+				},
+				{
+					"device": "left_foot_roll",
+					"value": -93
+				}
+			]
+		},
+		{
+			"transition_time_ms": 598,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 13
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 521
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 492
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 54
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 132
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -394
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 370
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 79
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 100
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 11
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -338
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": -121
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 33
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": -97
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 297
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -366
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": -123
+				},
+				{
+					"device": "left_foot_roll",
+					"value": -115
+				}
+			]
+		},
+		{
+			"transition_time_ms": 622,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 13
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 521
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 492
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 54
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 27
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -394
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 370
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 79
+				},
+				{
+					"device": "right_foot_roll",
+					"value": -6
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 11
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -338
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 33
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": -32
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 297
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -366
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": -123
+				},
+				{
+					"device": "left_foot_roll",
+					"value": -66
+				}
+			]
+		},
+		{
+			"transition_time_ms": 450,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 13
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 521
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 492
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 54
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": -123
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -577
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 370
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 79
+				},
+				{
+					"device": "right_foot_roll",
+					"value": -201
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 11
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -536
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 33
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": -293
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 675
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -789
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": -395
+				},
+				{
+					"device": "left_foot_roll",
+					"value": -278
+				}
+			]
+		},
+		{
+			"transition_time_ms": 550,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 13
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 610
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 492
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 54
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": -51
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -602
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 370
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 79
+				},
+				{
+					"device": "right_foot_roll",
+					"value": -141
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 11
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -470
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 346
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 33
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": -97
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 690
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -126
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": 183
+				},
+				{
+					"device": "left_foot_roll",
+					"value": -115
+				}
+			]
+		},
+		{
+			"transition_time_ms": 550,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": -178
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 521
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 492
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 54
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": -43
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -330
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 405
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 277
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 31
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 81
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -599
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 522
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 33
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": -97
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 769
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -518
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": 47
+				},
+				{
+					"device": "left_foot_roll",
+					"value": 48
+				}
+			]
+		},
+		{
+			"transition_time_ms": 450,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 13
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 521
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 46
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 54
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 364
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -942
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 833
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": 338
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 127
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 11
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -549
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": 0
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 33
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": 259
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 563
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -515
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": -169
+				},
+				{
+					"device": "left_foot_roll",
+					"value": 224
+				}
+			]
+		},
+		{
+			"transition_time_ms": 550,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": 13
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 521
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 49
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 54
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 242
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -879
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 265
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": -165
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 144
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 11
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -662
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": -271
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 33
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": 228
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 360
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -516
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": -332
+				},
+				{
+					"device": "left_foot_roll",
+					"value": 194
+				}
+			]
+		},
+		{
+			"transition_time_ms": 550,
+			"outputs": [
+				{
+					"device": "right_shoulder_pitch",
+					"value": -38
+				},
+				{
+					"device": "right_shoulder_roll",
+					"value": 692
+				},
+				{
+					"device": "right_elbow_roll",
+					"value": 492
+				},
+				{
+					"device": "right_thigh_yaw",
+					"value": 54
+				},
+				{
+					"device": "right_thigh_roll",
+					"value": 155
+				},
+				{
+					"device": "right_thigh_pitch",
+					"value": -789
+				},
+				{
+					"device": "right_knee_pitch",
+					"value": 335
+				},
+				{
+					"device": "right_foot_pitch",
+					"value": -214
+				},
+				{
+					"device": "right_foot_roll",
+					"value": 42
+				},
+				{
+					"device": "left_shoulder_pitch",
+					"value": 11
+				},
+				{
+					"device": "left_shoulder_roll",
+					"value": -456
+				},
+				{
+					"device": "left_elbow_roll",
+					"value": -281
+				},
+				{
+					"device": "left_thigh_yaw",
+					"value": 33
+				},
+				{
+					"device": "left_thigh_roll",
+					"value": 81
+				},
+				{
+					"device": "left_thigh_pitch",
+					"value": 268
+				},
+				{
+					"device": "left_knee_pitch",
+					"value": -585
+				},
+				{
+					"device": "left_foot_pitch",
+					"value": -470
+				},
+				{
+					"device": "left_foot_roll",
+					"value": -36
+				}
+			]
+		}
+	]
+}

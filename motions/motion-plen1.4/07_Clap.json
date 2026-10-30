@@ -1,0 +1,41 @@
+{
+    "@frame_length": 4,
+    "@metadata": {
+        "author": "slightly-engineered",
+        "required_firmware": "1.4.1~",
+        "target": "PLEN1.4"
+    },
+    "codes": [],
+    "frames": [
+        {
+            "@index": 0,
+            "outputs": [
+                { "device": "neck_yaw", "value": 0 }
+            ],
+            "transition_time_ms": 300
+        },
+        {
+            "@index": 1,
+            "outputs": [
+                { "device": "neck_yaw", "value": 400 }
+            ],
+            "transition_time_ms": 500
+        },
+        {
+            "@index": 2,
+            "outputs": [
+                { "device": "neck_yaw", "value": -400 }
+            ],
+            "transition_time_ms": 500
+        },
+        {
+            "@index": 3,
+            "outputs": [
+                { "device": "neck_yaw", "value": 0 }
+            ],
+            "transition_time_ms": 500
+        }
+    ],
+    "name": "Clap",
+    "slot": 7
+}
