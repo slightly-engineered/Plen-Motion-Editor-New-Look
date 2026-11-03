@@ -10,7 +10,9 @@ A refreshed software kit for the **PLEN 1.4** humanoid robot:
 
 Everything adds a 19th servo: **Neck Yaw on servo rail #9**.
 
-![Anim8 motion editor: the PLEN 3D model with connection controls on the left and the frame timeline along the bottom](docs/images/anim8-editor.png)
+| Original PLEN motion editor | Anim8 (this repository) |
+|---|---|
+| ![Original PLEN motion editor: a blocky white PLEN model on a green grid with icon buttons on the left](docs/images/original-editor.png) | ![Anim8 motion editor: the PLEN 3D model with connection controls on the left and the frame timeline along the bottom](docs/images/anim8-editor.png) |
 
 ---
 
